@@ -4,3 +4,4 @@ Araç servislerinde kullanılabilen,araçlara yapılan işlemleri ve araç müş
  ![SAVE SERVİS SCREENSHOT](https://github.com/user-attachments/assets/8646182a-f8fb-43b8-817f-9675be3e6629)
 ![Tedarikçi ekran görüntüsü](https://github.com/user-attachments/assets/3fa374fb-cb3d-44be-9cdd-77690d9d2275)
 ![ürün ekle ekran görüntüsü](https://github.com/user-attachments/assets/8c26c0ab-3319-4cd6-9d60-918274b82e17)
+![MÜŞTERİ KAYIT EKLE EKRAN GÖRÜNTÜSÜ](https://github.com/user-attachments/assets/15c4bbd1-dfcf-4ccd-bf03-aabafb9daaf6)
